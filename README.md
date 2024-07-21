@@ -1,8 +1,9 @@
 ## VrindaStore-Sales-Analysis
+
  **Project objective:**
 - Vrinda Store Wants to create an annual sales report for 2022. so that, Vrinda can understand their customers and grow more sales in 2023
 
-     Create a _[VirndaStore Sales report](https://github.com/AbhishekPurbey02/Vrinda-Store-Sales-Analytics/blob/main/Virnda%20Store%20Sales%20Report.pdf)_ 
+     Create a _[VirndaStore Sales report](https://github.com/SaloniThakur2/VrindaStore-Sales-Analysis/blob/main/Virnda%20Store%20Sales%20Report.pdf) 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
